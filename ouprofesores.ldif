@@ -1,0 +1,35 @@
+dn: ou=Informatica,ou=Profesores,dc=basdedios,dc=com
+objectClass: posixGroup
+ou: Informatica
+
+dn: uid=juan,ou=Profesores,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Juan
+sn: Garcia
+uid: juan
+mail: juan@basdedios.com
+
+dn: uid=marcia,ou=Profesores,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Marcia
+sn: Perez
+uid: marcia
+mail: marcia@basdedios.com
+
+dn: ou=Economia,ou=Profesores,dc=basdedios,dc=com
+objectClass: posixGroup
+ou: Economia
+
+dn: uid=martin,ou=Profesores,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Martin
+sn: Rodriguez
+uid: martin
+mail: martin@basdedios.com
+
+dn: uid=simon,ou=Profesores,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Simon
+sn: Fernandez
+uid: simon
+mail: simon@basdedios.com

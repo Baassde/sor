@@ -1,0 +1,12 @@
+dn: dc=basdedios,dc=com
+objectClass: top
+objectClass: dcObject
+dc: basdedios
+
+dn: ou=Alumnos,dc=basdedios,dc=com
+objectClass: organizationalUnit
+ou: Alumnos
+
+dn: ou=Profesores,dc=basdedios,dc=com
+objectClass: organizationalUnit
+ou: Profesores
