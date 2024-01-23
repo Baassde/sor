@@ -1,0 +1,35 @@
+dn: ou=Basica,ou=Alumnos,dc=basdedios,dc=com
+objectClass: organizationalUnit
+ou: Basica
+
+dn: uid=pablo,ou=Alumnos,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Pablo
+sn: Rodriguez
+uid: pablo
+mail: pablo@basdedios.com
+
+dn: uid=mateo,ou=Alumnos,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Mateo
+sn: Fernandez
+uid: mateo
+mail: mateo@basdedios.com
+
+dn: ou=Medio,ou=Alumnos,dc=basdedios,dc=com
+objectClass: organizationalUnit
+ou: Medio
+
+dn: uid=alex,ou=Alumnos,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Alex
+sn: Lopez
+uid: alex
+mail: alex@basdedios.com
+
+dn: uid=hugo,ou=Alumnos,dc=basdedios,dc=com
+objectClass: inetOrgPerson
+cn: Hugo
+sn: Gomez
+uid: hugo
+mail: hugo@basdedios.com
